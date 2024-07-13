@@ -1,4 +1,4 @@
 {
-	"maintenance": false,
-	"reason": "AUTH SERVICES UNAVAILABLE AGAIN!"
+	"maintenance": true,
+	"reason": "Error with site not syncing. We'll be back shortly!"
 }
