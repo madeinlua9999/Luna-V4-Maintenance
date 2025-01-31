@@ -1,4 +1,4 @@
 {
-	"maintenance": false,
-	"reason": "Error with site not syncing. We'll be back shortly!"
+	"maintenance": true,
+	"reason": "Payments are currently down, We'll be back shortly!"
 }
