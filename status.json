@@ -1,4 +1,4 @@
 {
-	"maintenance": false,
-	"reason": "We're are currently investigating a issue with our auth system."
+	"maintenance": true,
+	"reason": "Discord Has Recently Updated, LUNA Is Currently Disabled For Testing."
 }
